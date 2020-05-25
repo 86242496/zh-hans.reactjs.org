@@ -20,7 +20,7 @@ React 实现了一套独立于浏览器的 DOM 系统，兼顾了性能和跨浏
 
 ## 属性差异 {#differences-in-attributes}
 
-React 与 HTML 之间有很多属性存在差异：
+React 与 HTML 之间有很多属性存在差异1111：
 
 ### checked {#checked}
 
